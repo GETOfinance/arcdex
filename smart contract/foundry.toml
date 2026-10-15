@@ -1,0 +1,12 @@
+[profile.default]
+src = "contracts/uniswapv2"
+test = "test"
+script = "script"
+out = "out"
+cache_path = "cache"
+solc_version = "0.6.12"
+optimizer = true
+optimizer_runs = 999999
+
+[rpc_endpoints]
+arc = "${ARC_RPC_URL}"
