@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">ArcSwap</title>
+  <desc id="description">White ArcSwap A mark formed by two flowing swap arrows</desc>
+  <circle cx="256" cy="256" r="232" fill="#07152f" />
+  <path
+    fill="#fff"
+    d="M93 342c33 56 93 94 163 94 50 0 96-20 130-52l30 30 17-104-104 17 30 30c-27 25-63 40-103 40-54 0-101-28-128-70L93 342ZM419 170C386 114 326 76 256 76c-50 0-96 20-130 52l-30-30-17 104 104-17-30-30c27-25 63-40 103-40 54 0 101 28 128 70l35-15Z"
+  />
+  <path fill="#07152f" d="M256 146 153 351h48l23-48h64l-18-38h-28l14-30 56 116h49L256 146Z" />
+</svg>
